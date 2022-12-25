@@ -3,5 +3,6 @@
 <h3 align="left">Я интересуюсь анализом данных. Сейчас я изучаю Python, SQL</h3>
 <h3 align="left">📫 Написать мне в telegram: @zhyyaxa</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
+https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
 ![](https://komarev.com/ghpvc/?username=zhyyaxa)
