@@ -4,5 +4,5 @@
 <h3 align="left">📫 Написать мне в telegram: @zhyyaxa</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
-https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Parsing-medical-site)
 ![](https://komarev.com/ghpvc/?username=zhyyaxa)
