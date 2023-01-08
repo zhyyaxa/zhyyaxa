@@ -5,4 +5,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Parsing-medical-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=)](https://github.com/zhyyaxa/Bank-client)
 ![](https://komarev.com/ghpvc/?username=zhyyaxa)
