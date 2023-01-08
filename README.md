@@ -6,4 +6,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Bank-client)](https://github.com/zhyyaxa/Bank-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=Parsing-medical-site)](https://github.com/zhyyaxa/Parsing-medical-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyyaxa&repo=answers-to-Yandex-handbook)](https://github.com/zhyyaxa/answers-to-Yandex-handbook)
-[!](https://komarev.com/ghpvc/?username=zhyyaxa)
+![](https://komarev.com/ghpvc/?username=zhyyaxa)
